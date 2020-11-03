@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="version1" table="x_501118_test_testtable">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_501118_test_test3">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Version1</column_label>
+        <column_label/>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,15 +27,15 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>version1</element>
+        <element/>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
-        <max_length>200</max_length>
-        <name>x_501118_test_testtable</name>
+        <max_length>40</max_length>
+        <name>x_501118_test_test3</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-10-19 06:01:52</sys_created_on>
-        <sys_id>1b950ff0db102010806ebd51399619a6</sys_id>
+        <sys_created_on>2020-11-03 11:53:33</sys_created_on>
+        <sys_id>3535c3f0db102010806ebd51399619b3</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Version1</sys_name>
+        <sys_name>x_501118_test_test3</sys_name>
         <sys_package display_value="TEST" source="x_501118_test">94cc2034dbf71010adc7e4da4b9619a4</sys_package>
         <sys_policy/>
         <sys_scope display_value="TEST">94cc2034dbf71010adc7e4da4b9619a4</sys_scope>
-        <sys_update_name>sys_dictionary_x_501118_test_testtable_version1</sys_update_name>
+        <sys_update_name>sys_dictionary_x_501118_test_test3_null</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-11-03 11:55:18</sys_updated_on>
+        <sys_updated_on>2020-11-03 11:53:33</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
