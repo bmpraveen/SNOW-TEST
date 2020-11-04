@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Test3">7935c3f0db102010806ebd5139961997</application>
+        <filter/>
+        <name>Test3s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_501118_test.test3_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-03 11:53:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7535c3f0db102010806ebd5139961999</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test3s</sys_name>
+        <sys_package display_value="TEST" source="x_501118_test">94cc2034dbf71010adc7e4da4b9619a4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TEST">94cc2034dbf71010adc7e4da4b9619a4</sys_scope>
+        <sys_update_name>sys_ui_module_7535c3f0db102010806ebd5139961999</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-03 11:53:33</sys_updated_on>
+        <table>x_501118_test_test3</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

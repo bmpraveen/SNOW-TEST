@@ -47,21 +47,21 @@
         <reference_qual/>
         <reference_qual_condition/>
         <reference_type/>
-        <sizeclass>0</sizeclass>
+        <sizeclass/>
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-10-09 04:19:16</sys_created_on>
-        <sys_id>eb7d2074dbf71010adc7e4da4b961997</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_id>d3950ff0db102010806ebd5139961995</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_501118_test_testtable</sys_name>
         <sys_package display_value="TEST" source="x_501118_test">94cc2034dbf71010adc7e4da4b9619a4</sys_package>
         <sys_policy/>
         <sys_scope display_value="TEST">94cc2034dbf71010adc7e4da4b9619a4</sys_scope>
-        <sys_update_name>sys_dictionary_x_501118_test_testtable_null</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2020-10-09 10:37:38</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_501118_test_testtable_NULL</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-03 11:55:18</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
