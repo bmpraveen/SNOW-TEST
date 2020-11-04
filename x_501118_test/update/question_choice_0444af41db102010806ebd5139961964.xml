@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>2</misc>
+        <order>100</order>
+        <question display_value="CPU">37f3eb41db102010806ebd5139961935</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 08:47:51</sys_created_on>
+        <sys_id>0444af41db102010806ebd5139961964</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="TEST" source="x_501118_test">94cc2034dbf71010adc7e4da4b9619a4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TEST">94cc2034dbf71010adc7e4da4b9619a4</sys_scope>
+        <sys_update_name>question_choice_0444af41db102010806ebd5139961964</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 08:47:51</sys_updated_on>
+        <text>2</text>
+        <value>2</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=0444af41db102010806ebd5139961964"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>2</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>0444af41db102010806ebd5139961964</id>
+        <parent/>
+        <reference_amount>2</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 08:47:51</sys_created_on>
+        <sys_id>af446f41db102010806ebd513996199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 08:47:51</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>0444af41db102010806ebd5139961964</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 08:47:51</sys_created_on>
+        <sys_id>67446f41db102010806ebd513996199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-04 08:47:51</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
